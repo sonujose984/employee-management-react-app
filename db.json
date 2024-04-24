@@ -1,0 +1,72 @@
+{
+  "Employee": [
+    {
+      "id": "1",
+      "Name": "Sonu Jose",
+      "DepartmentId": "1",
+      "Age": "24",
+      "GenderId": "2",
+      "Salary": "11",
+      "YearsOfExperience": "5"
+    },
+    {
+      "id": "2",
+      "Name": "Raghi",
+      "DepartmentId": "2",
+      "Age": 23,
+      "GenderId": "2",
+      "Salary": 22,
+      "YearsOfExperience": 3
+    },
+    {
+      "id": "3",
+      "Name": "neeraj",
+      "DepartmentId": "3",
+      "Age": "54",
+      "GenderId": "1",
+      "Salary": "45",
+      "YearsOfExperience": "54"
+    },
+    {
+      "id": "4",
+      "Name": "neenu",
+      "DepartmentId": "4",
+      "Age": "67",
+      "GenderId": "2",
+      "Salary": "4",
+      "YearsOfExperience": "6"
+    }
+  ],
+  "Department": [
+    {
+      "id": "1",
+      "DepartmentName": "Development"
+    },
+    {
+      "id": "2",
+      "DepartmentName": "Admin"
+    },
+    {
+      "id": "3",
+      "DepartmentName": "QA"
+    },
+    {
+      "id": "4",
+      "DepartmentName": "Sales"
+    }
+  ],
+  "Gender": [
+    {
+      "id": "1",
+      "Type": "Male"
+    },
+    {
+      "id": "2",
+      "Type": "Female"
+    },
+    {
+      "id": "3",
+      "Type": "Other"
+    }
+  ]
+}
